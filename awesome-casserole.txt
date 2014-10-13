@@ -1,0 +1,12 @@
+Materials:
+  1) Cucumbers
+  2) Salt
+  3) Oranges
+  4) Oven
+  5) Wastebin
+  6) A dozen donuts
+Instructions:
+  1) Mix cucumbers, salt, and oranges into a casserole pan
+  2) Insert into over for 45 minutes @ 500 degrees
+  3) Dump casserole into wastebin
+  4) Proceed to eat donuts
